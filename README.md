@@ -9,7 +9,7 @@ Power Query and Power BI Desktop.
 
 
 ## Project Overview
-
+**[📄 Full write-up](https://docs.google.com/document/d/1VzKag4eP6a_fUPd3oIlN3-hYs5vMuQa57WVlRxOtSRQ/edit?usp=sharing)** · **[📁 Raw dataset (CSV)](https://docs.google.com/spreadsheets/d/1DSz6TGdELZWczhQxy8d9lY3ogc4c3xBGdnsQPVxRoBM/edit?usp=sharing)**
 The project takes a raw insurance operations export (policies, customers, and
 claims combined in a single file) and turns it into a clean, analysis-ready
 model in Power BI. The work covers two phases:
