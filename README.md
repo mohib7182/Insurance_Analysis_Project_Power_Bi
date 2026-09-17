@@ -10,6 +10,9 @@ flag when reviewing any dataset before trusting its conclusions.
 
 ---
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/607f7bf0-b40d-4e42-945e-f118081596d1" />
+
+
 ## Project Overview
 
 The project takes a raw insurance operations export (policies, customers, and
@@ -103,7 +106,6 @@ Claims outpace premiums across every policy line — total claims (≈16.9M)
 run well above total premium collected (≈5.97M), a ratio of roughly 2.8x,
 with a rejection rate of about 43.5% on filed claims.
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/607f7bf0-b40d-4e42-945e-f118081596d1" />
 
 
 ## Files & Artifacts
