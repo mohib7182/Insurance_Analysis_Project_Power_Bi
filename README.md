@@ -103,6 +103,9 @@ Claims outpace premiums across every policy line — total claims (≈16.9M)
 run well above total premium collected (≈5.97M), a ratio of roughly 2.8x,
 with a rejection rate of about 43.5% on filed claims.
 
+![Uploading image.png…]()
+
+
 ## Files & Artifacts
 
 - `InsuranceData(1).csv` — raw source data (10,004 rows, 13 columns)
