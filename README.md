@@ -3,11 +3,6 @@
 Data cleaning and dashboard build on a raw insurance operations export, using
 Power Query and Power BI Desktop.
 
-**Note:** the dataset appears to be synthetic/sample data rather than a real
-insurer's book of business — the loss ratio in the key result below is far
-higher than would be plausible in practice, which is itself a useful thing to
-flag when reviewing any dataset before trusting its conclusions.
-
 ---
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/607f7bf0-b40d-4e42-945e-f118081596d1" />
